@@ -1,2 +1,3 @@
-# Ola_Mundo
-teste_teste
+# Olá, Mundo!
+
+Repositório criado durante uma aula ao vivo
